@@ -1,6 +1,4 @@
 # OGS
 _Occupational Gender Segregation Project_
 
-I will upload some results of the Analysis of my Undergrad Thesis and work I presented at the 2019 Congress of the Austrian Society for Sociology here in October.
-
-Please follow this repository to get notified for updates!
+This is a repo on the development of gender-based occupation segregation in Austria. Currently this repo contains my presentation at the 2019 Congress of the Austrian Sociological Association. Please reach out to get access to more details about the project.
